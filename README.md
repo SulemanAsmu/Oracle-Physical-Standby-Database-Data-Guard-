@@ -1,0 +1,1 @@
+# Oracle-Physical-Standby-Database-Data-Guard-
